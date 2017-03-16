@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActionBarAndNavigationDrawer</string>
+    <string name="strTelaCheia">Tela Cheia</string>
+    <string name="strBarra">Barra Nova</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="strNav">Nav</string>
+</resources>
